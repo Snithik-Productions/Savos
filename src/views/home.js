@@ -2,7 +2,7 @@ import React, { Fragment } from 'react'
 
 import { Helmet } from 'react-helmet'
 
-import Navbar8 from '../components/navbar8'
+import Navbar8 from 'https://github.com/Snithik-Productions/Savos/blob/e60ba14efac8ce2e7e2a571f962fc52e3291bc5e/src/components/navbar8.js'
 import Hero17 from '../components/hero17'
 import Features24 from '../components/features24'
 import CTA26 from '../components/cta26'
